@@ -1,4 +1,4 @@
- 
+https://www.youtube.com/watch?v=W8KRzm-HUcc 
 courses = ['Math', 'History', 'Physics', 'CompSci']
 courses_2 = ['Art', 'Education']
 nums = [1, 5, 2, 4, 3]
